@@ -4,7 +4,7 @@ Inspired by https://github.com/hxu296/tariff
 
 The GREATEST, most TREMENDOUS Node.js package that makes importing great again!
 
-![MIGA](https://github.com/user-attachments/assets/ebee1c5c-59d9-41d7-9a28-f6e78eb2266e)
+![image](https://github.com/user-attachments/assets/0f3412c1-8731-4085-80b6-d92b2cd10c12)
 
 ## About
 
