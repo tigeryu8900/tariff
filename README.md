@@ -16,10 +16,10 @@ TARIFF is a fantastic tool that lets you impose import tariffs on Node.js packag
 
 ```bash
 # npm
-npm install tariff
+npm install @tariff/tariff
 
 # yarn
-yarn install tariff
+yarn install @tariff/tariff
 ```
 
 ## Usage
@@ -43,10 +43,10 @@ support `--loader`.
 
 ```bash
 # using import
-node --import tariff your-file.js
+node --import @tariff/tariff your-file.js
 
 # using loader
-node --loader tariff your-file.js
+node --loader @tariff/tariff your-file.js
 ```
 
 ## How It Works
