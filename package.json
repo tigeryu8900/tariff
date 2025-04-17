@@ -1,0 +1,29 @@
+{
+  "name": "tarrif",
+  "version": "1.0.0",
+  "keywords": [
+    "import",
+    "tariff",
+    "parody",
+    "monkey-patch"
+  ],
+  "author": "tigeryu8900",
+  "license": "MIT",
+  "description": "The GREATEST, most TREMENDOUS Node.js package that makes importing great again!",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "npm run test:commonjs && npm run test:module",
+    "test:commonjs": "cd test && node --import ../index.mjs commonjs.cjs",
+    "test:module": "npm run test:module:loader && npm run test:module:import",
+    "test:module:loader": "cd test && node --loader ../index.mjs module.mjs",
+    "test:module:import": "cd test && node --import ../index.mjs module.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigeryu8900/tariff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tigeryu8900/tariff/issues"
+  },
+  "homepage": "https://github.com/tigeryu8900/tariff#readme"
+}

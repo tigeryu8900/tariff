@@ -1,0 +1,5 @@
+{
+  "./commonjs_module.cjs": 50,
+  "./module_module.mjs": 100,
+  "node:fs": 200
+}
