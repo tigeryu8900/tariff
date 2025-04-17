@@ -38,7 +38,7 @@ percentages.
 
 In this case `package1` will be 50% slower, and `package2` will be 100% slower.
 
-Add either `--import tariff` or `--loader tariff` to your `node` command. Currently, the `commonjs` version does not
+Add either `--import @tariff/tariff` or `--loader @tariff/tariff` to your `node` command. Currently, the `commonjs` version does not
 support `--loader`.
 
 ```bash
