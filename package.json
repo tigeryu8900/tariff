@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tigeryu8900/tariff/issues"
   },
-  "homepage": "https://github.com/tigeryu8900/tariff#readme"
+  "homepage": "https://github.com/tigeryu8900/tariff#readme",
+  "directories": {
+    "test": "test"
+  }
 }
